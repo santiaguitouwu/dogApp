@@ -104,18 +104,3 @@ implementation("androidx.biometric:biometric:1.1.0")
 - **Imágenes Dinámicas**: Carga automática de imágenes por raza
 - **UX Intuitiva**: Navegación fluida y diseño responsivo
 
-## 📱 Capturas de Pantalla
-
-[Incluir capturas de pantalla de las diferentes pantallas]
-
-## 🤝 Contribución
-
-Este proyecto fue desarrollado siguiendo metodologías ágiles con historias de usuario bien definidas.
-
-## 📄 Licencia
-
-[Especificar licencia del proyecto]
-
----
-
-**Desarrollado con ❤️ para la gestión veterinaria moderna** 
